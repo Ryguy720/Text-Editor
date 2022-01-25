@@ -18,9 +18,13 @@ Ryan McCulloch
 #### Installation
 First we want to run and 'npm i' followed by 'npm run start'
 
-#### Testing
+### Links
+Heroku: https://dashboard.heroku.com/apps/just-another-texteditor/deploy/github
 
-#### Usage
+GitHub: https://github.com/Ryguy720/Text-Editor
+
+
+
 
 #### License
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
